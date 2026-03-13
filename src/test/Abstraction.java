@@ -5,6 +5,7 @@ abstract class Abstract {
     abstract int sub(int c , int d);
 }
 
+// 100 percent Abstraction
 interface Vehicle{
     void start();
     void Model();
